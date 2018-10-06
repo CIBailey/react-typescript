@@ -5,5 +5,10 @@ exports[`BUTTON COMPONENT checking snapshot 1`] = `
   className="btn btn-info"
   onClick={[Function]}
   style={Object {}}
-/>
+  type="button"
+>
+  <span>
+    test
+  </span>
+</button>
 `;
